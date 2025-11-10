@@ -1,0 +1,996 @@
+
+
+
+[
+    {
+        "text":"Thanks again, and I hope you had a nice Easter weekend.    Megan",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Megan"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,         Marie Burnett    Accounting and Administrative Manager    (301) 668-4437    (877) 798-4854 x308    marie.burnett@iHire.com",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Marie Burnett"
+            },
+            {
+                "label": "EMAIL",
+                "text": "marie.burnett@iHire.com"
+            }
+        ]
+    },
+    {
+        "text":"Thanks,    Warm regards,    Kelly  Powell Vice President A3Logics, Inc Carlsbad, CA (442) 615 – 9676 More on me: www.linkedin.com/in/kellycharlespowell   Grab a spot on my CALENDAR    Stop receiving our emails, you can Unsubscribe",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Kelly  Powell"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "A3Logics"
+            }
+        ]
+    },
+    {
+        "text":"Thank You,  Chloe Coursey",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Chloe Coursey"
+            }
+        ]
+    },
+    {
+        "text":"Tom Kramer '07  Director of Bands & Orchestras    WAMTC Treasurer  TKramer@olgchs.org    17301 Old Vic Blvd  Olney, MD 20832  p: 240.283.3200  OLGCHS.ORG    cebookitterutubestagram         WE INSPIRE OUR STUDENTS TO EXCEL, SERVE, AND LOV",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Tom Kramer"
+            },
+            {
+                "label": "EMAIL",
+                "text": "TKramer@olgchs.org"
+            }
+        ]
+    },
+    {
+        "text":" Sincerely,  Avery S. Johnson         Avery S. Johnson, Chief    ASJ/cjp              The Nanticoke Indian Association, Inc.    27073 John J. Williams Highway    Millsboro, DE 19966    Phone:  (302) 945-3400    Fax:  (302) 947-9411    Info@Nanticokeindians",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Avery S. Johnson"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "The Nanticoke Indian Association, Inc."
+            },
+            {
+                "label": "EMAIL",
+                "text": "Info@Nanticokeindians"
+            }
+        ]
+    },
+    {
+        "text":"Best Regards,  Affan",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Affan"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,        Hiral Mehta & Hemant Patel, Owners  The Goddard School    6600 Creedmoor Road  Raleigh, NC 27613  (919) 787-5002  GoddardSchool.com",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Hiral Mehta"
+            },
+            {
+                "label": "PERSON",
+                "text": "Hemant Patel"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "The Goddard School"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,    The Facilities Department",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "The Facilities Department"
+            }
+        ]
+    },
+    {
+        "text":"We're here to help  Visit the Help Center for more info or contact us.  The Netflix team     View All TV Shows & Movies       Questions? Visit the Help Center  121 Albright Way, Los Gatos, CA 95032, U.S.A.  Communication Settings  Terms of Use  Privacy  Help Center  This message was mailed to [ecoursey2013@gmail.com] by Netflix as part of your Netflix membership.  SRC: 5F639529_f316f8b1-c5da-46dc-987b-6b57604fe9f7_en_US_EVO",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Netflix"
+            },
+            {
+                "label": "PERSON",
+                "text": "Netflix team"
+            }
+        ]
+    },
+    {
+        "text":"Wishing you a fantastic week ahead!      Walter Schilling",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Walter Schilling"
+            }
+        ]
+    },
+    {
+        "text":"Looking forward to seeing everyone there!  Thank you.     Stefanie M. Portugallo",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Stefanie M. Portugallo"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,    Tracy Pederson  Assistant Director  6600 Creedmoor Road  Raleigh, NC 27613  (919) 787-5002  GoddardSchool.com          Laticha Young, Director  The Goddard School    6600 Creedmoor Road  Raleigh, NC 27613  (919) 787-5002  GoddardSchool.com",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Tracy Pederson"
+            },
+            {
+                "label": "PERSON",
+                "text":  "Laticha Young"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "The Goddard School"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,  Amy Angelini",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Amy Angelini"
+            }
+        ]
+    },
+    {
+        "text":"Best,    Madison Mackin    HR Administrator    Skanska USA Civil         Queens, NY 11370, United States    Mobile    +1 929 919 3444         Skanska USA    usa.skanska.com    Connect With Us:    Facebook[Link: http://usa.skanska.com/facebook] | Twitter [Link:http://usa.skanska.com/twitter]  | LinkedIn[Link:http://usa.skanska.com/linkedin]  | Instagram[Link:http://usa.skanska.com/instagram]  | YouTube[Link: http://usa.skanska.com/youtube]         Think twice before you press \"print.\"    This message, including any attachments hereto, may contain privileged or confidential information and is sent solely for the attention and use of the intended addressee(s). If you are not an intended addressee, you may neither use this message nor copy or deliver it to anyone. In such case, you should immediately destroy this message and kindly notify the sender by reply email. Thank you.",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Madison Mackin"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Skanska USA Civil"
+            }
+        ]
+    },
+    {
+        "text":"With kind regards,  Emma Williams  Conference Manager | Energy Engineering 2024  Email: energyengineering@crgconferences.org  Phone: +1-718-543-9362  WhatsApp: +1-843-868-0484    Note: If you don't prefer to receive mails from energyengineering@crgconferences.org, reply us back with subject line: Remove/Unsubscribe. We concern for your privacy.    UNSUBSCRIBE",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Emma Williams"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Energy Engineering 2024"
+            },
+            {
+                "label": "EMAIL",
+                "text": "energyengineering@crgconferences.org"
+            }
+        ]
+    },
+    {
+        "text":"Kind regards,  Your N26 Team    Contact Support  Facebook[Link: https://www.facebook.com/N26/] Twitter[Link:https://twitter.com/n26/]  Instagram[Link:https://www.instagram.com/n26/]  Linkedin[Link: https://www.linkedin.com/company/n26]  N26 Bank AG  VoltairestraÃe 8 | 10179 Berlin | Germany  Registered in Commercial Register Local Court Charlottenburg HRB 247469 B | VAT ID: DE 30/595/7096  Management Board: Maximilian Tayenthal, Carina Kozole, Jan Stechele  Chairperson of the Supervisory Board: Marcus W. Mosen    Don't want to stay in the loop? Unsubscribe from the waiting list here",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "N26 Bank AG"
+            },
+            {
+                "label": "PERSON",
+                "text": "N26 Team"
+            }
+
+        ]
+    },
+    {
+        "text":"Yours faithfully,        Mr.George Emeka Emerah  Director, Finance Mini of Agriculture.  Email:mrgeorgeemerah2@gmail.com  My Cellphone:+ 234-911-815-7020  Whattsapp:+ 234-911-815-7020",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Mr.George Emeka Emerah"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Director Mini of Agriculture"
+            }
+        ]
+    },
+    {
+        "text":"Thank You,  Student BlueSM Customer Service         Student BlueSM is underwritten by Blue Cross and Blue Shield of North Carolina.    Blue Cross and Blue Shield of North Carolina complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability, or sex.    â¢ ATENCIÃN: Si habla espaÃ±ol, tiene a su disposiciÃ³n servicios gratuitos de asistencia lingÃ¼Ã­stica. Llame al 1-888-206-4697 (TTY: 1-800-442-7028).    â¢ æ³¨æï¼å¦ææ¨è¬å»£æ±è©±ææ®éè©±ï¼ æ¨å¯ä»¥åè²»ç",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Student BlueSM"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Blue Cross Blue Shield of North Carolina"
+            },
+            {
+                "label": "PERSON",
+                "text": "Student BlueSM Customer Service"
+            }
+        ]
+    },
+    {
+        "text":"Best,  Ty    --  Ty Meyer  NCSU \"22  B.S. Agricultural Education  B.S. Agricultural Business Management   NCSU Prestage Scholar  NCSU Young Farmers & Ranchers Vice-Chair  NCSU Wellness & Recreation Sport Programs Program Assistant   Courses 2019-2020",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Ty Meyer"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NCSU Wellness & Recreation Sport Programs"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,    Gina Bolin  Director of Online Student Support Services  Augusta University Online  Email: gbolin@augusta.edu  Phone: 706.729.2125       Book time to meet with",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Gina Bolin"
+            },
+            {
+                "label": "EMAIL",
+                "text": "gbolin@augusta.edu"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Augusta University Online"
+            }
+
+        ]
+    },
+    {
+        "text":"Thank you so much for your understanding and please check your email for updates.    MAA 900 Waterford",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "MAA 900 Waterford"
+            }
+        ]
+    },
+    {
+        "text":"Cheri Ogden",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Cheri Ogden"
+            }
+        ]
+    },
+    {
+        "text":"Please let me know if you have additional questions,  Leslie",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Leslie"
+            }
+        ]
+    },
+    {
+        "text":"Thanks,    Rana",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Rana"
+            }
+        ]
+    },
+    {
+        "text":"Dr.Parish  Dr. David W. Parish, PhD.  Assistant Dean  Undergraduate Academic Affairs  College of Engineering  North Carolina State University  Raleigh, NC 27695-7904  Phone: (919) 515-3263  Fax (919) 515-7908/7108  Email: dwparish@ncsu.edu",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Dr. David W. Parish"
+            },
+            {
+                "label": "EMAIL",
+                "text": "dwparish@ncsu.edu"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Undergraduate Academic Affairs"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "College of Engineering"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "North Carolina State University"
+            }
+        ]
+    },
+    {
+        "text":"Thanks!      --  Chester Brewer (he/him/his)  Assistant Director, University Scholars Program  Division of Academic and Student Affairs  P: 919.513.0704  uhsp.dasa.ncsu.edu    NC State University  206 Clark Hall  Campus Box 7316  Raleigh, NC 27695",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Chester Brewer"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State University"
+            },
+            {
+                "label": "WEBSITE",
+                "text": "uhsp.dasa.ncsu.edu"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "University Scholars Program"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Division of Academic and Student Affairs"
+            }
+        ]
+    },
+    {
+        "text":"Best,  Scott",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Scott"
+            }
+        ]
+    },
+    {
+        "text":"Cheers,  Labelbox Team         Unlock the potential of generative AI with a data-centric platform for building intelligent applications.    Website Support Contact Us   Unsubscribe",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Labelbox Team"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Labelbox"
+            }
+        ]
+    },
+    {
+        "text":"Thank you!    Ryan T Hufham, Intern  rhufham@lincolninvestment.com  252-756-1728  Robinson & Associates 1350 E Arlington Blvd, Suite A",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Ryan T Hugham"
+            },
+            {
+                "label": "EMAIL",
+                "text": "rhufham@lincolninvestment.com"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Robinson & Associates"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,    Customer Service  Amazon.com    Please note: this email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Amazon"
+            },
+            {
+                "label": "WEBSITE",
+                "text": "Amazon.com"
+            }
+        ]
+    },
+    {
+        "text":"Best Regards,    Juan  (252) 876-6385",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Juan"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,  Heather  DESK 162  In Take Unit  Personnel Security Operations Branch  Personnel Security Division  Office of Security and Integrity  U.S. Citizenship & Immigration Services",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Heather"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "U.S. Citizenship & Immigration Services"
+            }
+        ]
+    },
+    {
+        "text":"best,    CSC Advising Office  ------------------------------  Ms. ToniAnn Marini, M.Ed.  pronouns: she, her, hers  NC State University Department of Computer Science  Lecturer, Assistant Director of Undergraduate Advising, and Assistant Scheduling Officer  Office: Building 038, 111 Lampe Drive, Room 219 - A  Office Hours: Personal Hours available via my website  Click here for \"drop in, no appointment needed, virtual\" CSC Academic Advising Hours  Office Phone: (919) 515 - 7920  Website: http://go.ncsu.edu/tamarini  Faculty Advisor: Aces and Aros",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "CSC Advising Office"
+            },
+            {
+                "label": "PERSON",
+                "text": "Ms. ToniAnn Marini"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State Univeristy Department of Computer Science"
+            }
+        ]
+    },
+    {
+        "text":"Thank you, Tim    Donate  Tim Gestwicki    CEO    North Carolina Wildlife Federation    1346 St. Julien Street    Charlotte, NC 28205    Phone (704) 332-5696     Web www.ncwf.org Email Tim@ncwf.org    P.S. Consider a recurring automated monthly donation. It is the most efficient and effective way to donate to NCWF and help endangered wildlife in North Carolina on Endangered Species Day and throughout the year",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Tim Gestwicki"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "North Carolina Wildlife Federation"
+            },
+            {
+                "label": "EMAIL",
+                "text": "Tim@ncwf.org"
+            }
+        ]
+    },
+    {
+        "text":"Kat    Donate Katerina Ramos    Red Wolf Education & Outreach Coordinator    North Carolina Wildlife Federation    1221 NC-94    Columbia, NC 27925    Phone (252) 766-0320     Web www.ncwf.org Email Katerina@ncwf.org    P.S. Consider a recurring automated monthly donation. It is the most efficient and effective way to donate to NCWF and help endangered Red Wolves in North Carolina on Endangered Species Day and throughout the year.        www.ncwf.org    Facebook  Instagram  Linkedin  Youtube    Contact Us    Sign Up    Privacy Policy    Learn More    Ways to Give        North Carolina Wildlife Federation | 1346 St. Julien Street, Charlotte, NC 28205  Unsubscribe tlbelus@ncsu.edu  Update Profile | Our Privacy Policy | Constant Contact Data Notice  Sent by katerina@ncwf.org powered by  Trusted Email from Constant Contact - Try it FREE today.  Try email marketing for free toda",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Katerina Ramos"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "North Carolina Wildlife Federation"
+            },
+            {
+                "label": "EMAIL",
+                "text": "Katerina@ncwf.org"
+            }
+        ]
+    },
+    {
+        "text":"Regards    Mr.Richard Wahl",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Richard Wahl"
+            }
+        ]
+    },
+    {
+        "text":"All the best,  George List    Professor and Former Head Civil, Construction, and Environmental Engineering    NC State University    (919)515-8038    gflist@ncsu.edu",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "George List"
+            },
+            {
+                "label": "EMAIL",
+                "text": "gflist@ncsuedu"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State University"
+            }
+        ]
+    },
+    {
+        "text":"Best Regards    C/O  DR. SEUNG LEE  Title: Research Scholar  Dean's Office  North Carolina State University",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "DR. SEUNG LEE"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "North Carolina State University"
+            }
+        ]
+    },
+    {
+        "text":"Enjoy your day,  Brian",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Brian"
+            }
+        ]
+    },
+    {
+        "text":"Regards,    Support Crew    Dorian O. Dalmau",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Support Crew"
+            },
+            {
+                "label": "PERSON",
+                "text": "Dorian O. Dalmau"
+            }
+        ]
+    },
+    {
+        "text":" Regards  Frances Connolly  _______________________________    HTML Disclaimer  Please do not print this email unless it is absolutely necessary  Warning : This message contains business confidential information . This message does not affect or modify any binding agreement nor state official policy of Tikona Infinet Pvt. Ltd. (TIPL ) unless digitally signed by TIPL's authorised signatory. TIPL does not accept any liability for any errors, loss, delayed delivery, tampering, corruption or presence of viruses in this message or any attachment",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Frances Connolly"
+            }
+        ]
+    },
+    {
+        "text":"Thanks,  The Piazza Team  --  Contact us at team@piazza.com",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Piazza Team"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Piazza"
+            },
+            {
+                "label": "EMAIL",
+                "text": "team@piazza.com"
+            }
+        ]
+    },
+    {
+        "text":"Best,  Melissa",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Melissa"
+            }
+        ]
+    },
+    {
+        "text":"Dr. Mrs. Valerie Baptiste-Andrews",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Dr. Mrs. Valerie Baptiste-Andrews"
+            }
+        ]
+    },
+    {
+        "text":"Thanks,  CN",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "CN"
+            }
+        ]
+    },
+    {
+        "text":"Best Regards,    Stephen,    (SEO Consultant)",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Stephen"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely  Package Dispatch Manager  Sent with â¤ï¸ from FedEx  Â©2024 FedEx. The content of this message is protected by copyright and trademark laws under U.S. and international law. Rewiew our privacy policy. All rights reserved.  If you want to unsubscribe from all future mailings, please Click",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Package Dispatch Manager"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "FedEx"
+            }
+        ]
+    },
+    {
+        "text":"Vietnamese Student Association  North Carolina State University  Facebook: www.facebook.com/ncstatevsa  Twitter: www.twitter.com/ncstatevsa  Instagram: www.instagram.com/ncstatevsa  Website: www.ncstatevsa.org",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Vietnamese Student Association"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "North Carolina State University"
+            }
+        ]
+    },
+    {
+        "text":"Best,  Phuong Nguyen Tran  Joint Department of BME at NCSU and UNC Chapel Hill  Class of 2025  p. 919-345-7482  e. pntran4@ncsu.edu",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Phuong Nguyen Tran"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "UNC Chapel Hill"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NCSU"
+            },
+            {
+                "label": "EMAIL",
+                "text": "pntran4@ncsu.edu"
+            }
+        ]
+    },
+    {
+        "text":"have a great summer,  Bob",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Bob"
+            }
+        ]
+    },
+    {
+        "text":"Colleen McGowan  Industry Advisor  Department of Biomedical Engineering  UNC and NC State    cshaugh@email.unc.edu  919-824-4919",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Colleen McGowan"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "UNC"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State"
+            },
+            {
+                "label": "EMAIL",
+                "text": "cshaugh@email.unc.edu"
+            }
+        ]
+    },
+    {
+        "text":"Thank you,    Autumn Waters",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Autumn Waters"
+            }
+        ]
+    },
+    {
+        "text":"Get back to us with your response to know you are interested in this program.     Nagina Cotton Mills Ltd",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Nagina Cotton Mills Ltd"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,    Roni Caniago  Employee Support Service ESS",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Roni Caniago"
+            }
+        ]
+    },
+    {
+        "text":"Community Outreach Team  Good360",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Community Outreach Team"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Good360"
+            }
+        ]
+    },
+    {
+        "text":"Warm Regards,  Chris and Nikhil  Co-Founders of Juno ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Chris"
+            },
+            {
+                "label": "PERSON",
+                "text": "Nikhil"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Juno"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,    Holly M. Gross, M.D.         Click here to unsubscribe from these notifications",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Holly M. Gross"
+            }
+        ]
+    },
+    {
+        "text":"I am waiting to hear from you for more information.    Mr.FranK Rafael.",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Frank Rafael"
+            }
+        ]
+    },
+    {
+        "text":"Again, I am very sorry for this,  Thank you for your time,  Chloe Coursey",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Chloe Coursey"
+            }
+        ]
+    },
+    {
+        "text":"ssh  --  Sarah Heckman, PhD  Teaching Professor and Director of Undergraduate Programs  Department of Computer Science, NC State University  https://people.engr.ncsu.edu/sesmith5/   she/her",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Sarah Heckman"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Department of Computer Science, NC State University"
+            }
+        ]
+    },
+    {
+        "text":"Dr. Bowen Xu",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Dr. Bowen Xu"
+            }
+        ]
+    },
+    {
+        "text":"Thanks,  Megan Coursey     Sent from my iPhone",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Megan Coursey"
+            }
+        ]
+    },
+    {
+        "text":"Best     Robin    --  Robin Stearn, MSW    Client Manager    Kenneth Stefano & Associates    700 King Farm Blvd, STE 602    Rockville, MD 20850    301.770.7507, ext 1    FAX: 301.770.3576              CONFIDENTIALITY NOTICE:  In compliance with the Health Portability and Accountability Act HIPAA (rule 104-91), This e-mail message, including any attachments, is for the sole use of the intended recipient and may contain confidential and privileged information. Although unlikely, email sent via the Internet may be intercepted by third parties. Hence, the privacy of health care data cannot be assured. Clients who choose to communicate via email thus consent to email exchange with the recognition that HIPAA-related privacy rights cannot be guaranteed.         If this email has reached the wrong recipient, please contact us via return email or at the above telephone number and delete this email immediately. Any unauthorized review, use, disclosure or distribution is prohibited.  Thank you. This office is HIPAA compliant.",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Robin Stearn"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Kenneth & Stefano Associates"
+            }
+        ]
+    },
+    {
+        "text":"Brian Vital VP, Sales Development at ZoomInfo",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Brian Vital"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "ZoomInfo"
+            }
+        ]
+    },
+    {
+        "text":"Microsoft Canada Inc. 1950 Meadowvale Blvd. Mississauga, ON L5N 8L9 Canada ",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Microsoft Canada Inc."
+            }
+        ]
+    },
+    {
+        "text":"Best Regards, Nicholas Bishop   Pediatric Anesthesiologist U.S. Anesthesia Partners",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Nicholas Bishop"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Pediatric Anesthesiologist U.S. Anesthesia Partbers"
+            }
+        ]
+    },
+    {
+        "text":"Regards, Amanda J. Morales Finance Manager | Bell Marketing & Advisory Services, Inc. 113 Pontotoc Plaza, Auburndale, FL 33823 e.amanda@bellchrist.com",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Amanda J. Morales"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Bell Marketing & Advisory Services, Inc"
+            },
+            {
+                "label": "EMAIL",
+                "text": "e.amanda@bellchrist.com"
+            }
+        ]
+    },
+    {
+        "text":"Warm regards, Dr. Cameron D. Denson Principal Investigator e-STEM Project cddenson@ncsu.edu",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Dr. Cameron D. Denson"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "e-STEM Project"
+            }
+        ]
+    },
+    {
+        "text":" Ken Tate Director of Engagement & External Relations   NC State University Department of Computer Science / College of Engineering Campus Box 8206 1204-F Engineering Building 2 Raleigh, NC 27695-8206 O: (919) 513-4292 C: (919) 656-4480  Follow NC State Computer Science on Twitter, Facebook and LinkedIn.",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Kate Tate"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State University Department of Computer Science / College of Engineering"
+            }
+        ]
+    },
+    {
+        "text":"Sincerely,  Jeffrey Poage, MD Member, ASAPAC Executive Board  Heidi Tavel MD, FASA Member, ASAPAC Executive Board  Anna Weyand, MD Member, ASAPAC Executive Board  Contributions to ASAPAC are not deductible as charitable contributions for federal income tax purposes. Participation in ASAPAC is voluntary. You may refuse to contribute without reprisal. You must be a U.S. citizen or legal resident to contribute. You must be an ASA member to contribute.  Click here to unsubscribe.   ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Jeffrey Poage"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "ASAPAC"
+            },
+            {
+                "label": "PERSON",
+                "text": "Anna Wyand"
+            },
+            {
+                "label": "PERSON",
+                "text": "Heidi Tavel"
+            }
+        ]
+    },
+    {
+        "text":"Kari Henderson, Assistant Director  Primrose School at Brier Creek  11151 Salem Glen Lane  Raleigh, NC 27617  919.880-2416 office  919.596.3286 fax  ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Kari Henderson"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Primrose School at Brier Creek"
+            }
+        ]
+    },
+    {
+        "text":" Sincerely, Lincoln Investment",
+        "annotations": [
+            {
+                "label": "ORGANIZATION",
+                "text": "Lincoln Investment"
+            }
+        ]
+    },
+    {
+        "text":"Thanks, Rob, Greg, & Abe Chesapeake Lawn Science, Inc. 301-625-3232 www.chesapeakelawnscience.com  ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Abe"
+            },
+            {
+                "label": "PERSON",
+                "text": "Greg"
+            },
+            {
+                "label": "PERSON",
+                "text": "Rob"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "Chesapeake Lawn Science, Inc"
+            },
+            {
+                "label": "WEBSITE",
+                "text": "www.chesapeakelawnscience.com"
+            }
+        ]
+    },
+    {
+        "text":"Thank you!  Mr. Avier Salter     Notary Public Registration Number #7931695 Mobil 202-997-3226    ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Mr. Avier Salter"
+            }
+        ]
+    },
+    {
+        "text":"Kind regards, Ryan Williford - Assistant Coordinator of Proctoring Pronouns: she / her / hers Disability Resource Office 107 / 304 Holmes Hall NC State University P: 919.513.3769 Campus Box 7509",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Ryan Williford"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "NC State University"
+            }
+        ]
+    },
+    {
+        "text":"V/r,     Stefanie M. Portugallo  Executive Resources and Pathways Program Manager  US Marshals Service  Mobile (202) 868-0608 ",
+        "annotations": [
+            {
+                "label": "PERSON",
+                "text": "Steganie M. Portugallo"
+            },
+            {
+                "label": "ORGANIZATION",
+                "text": "US Marshals Service"
+            }
+        ]
+    }
+]
