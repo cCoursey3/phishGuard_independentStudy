@@ -1,0 +1,1 @@
+The EEPROMclear file is to clear all the EEPROM variables.     The DataLogger File is to load and run on the arduino to show the Temp on the LCD and save to the EEPROM.     The EEPROMtoEXCEL file is just for showing it on PuTTy serial monitor and you can load it into excel from the PuTTy. You can search some different ways to do it on the internet, I think it would be easier

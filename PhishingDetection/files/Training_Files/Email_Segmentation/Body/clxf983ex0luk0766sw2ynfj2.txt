@@ -1,0 +1,1 @@
+You should include all of the data in your table (3 separate measurements for each force). RMSE refers to the fit of the model -   what is the difference between your data points and the value predicted by the line or the quadratic curve predicted by the model  (RMSE for the fit of each model)
